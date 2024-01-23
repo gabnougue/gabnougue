@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Gabin Nougué</h1>
-<h3 align="center">Un étudiant de troisième année de licence Informatique, à Anglet, France.</h3>
+<h3 align="center">Un étudiant en troisième année de licence Informatique, à Anglet, France.</h3>
 
 - 👨‍🎓 Je suis actuellement **étudiant en troisième année de licence informatique**
 
