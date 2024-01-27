@@ -9,9 +9,9 @@
 
 - 🚀 En savoir plus sur mon parcours [https://gabnougue.github.io/portfolio/education](https://gabnougue.github.io/portfolio/education)
 
-- 📫 Comment me contacter **gabnougue@gmail.com**
-
 - 📄 En savoir plus sur mon expérience [https://gabnougue.github.io/portfolio/experience](https://gabnougue.github.io/portfolio/experience)
+
+- 📫 Comment me contacter **gabnougue@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
