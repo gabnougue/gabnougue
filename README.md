@@ -18,7 +18,6 @@
 <a href="https://codepen.io/gab-gabnougue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gab-gabnougue" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabin-nougué-41703b276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabin nougué" height="30" width="40" /></a>
 <a href="https://instagram.com/gab1oui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gab1oui" height="30" width="40" /></a>
-<a href="https://discord.gg/gab1oui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gab1oui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
