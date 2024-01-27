@@ -5,13 +5,13 @@
 
 - 👨‍🎓 Je suis actuellement **étudiant en troisième année de licence informatique**
 
-- 👨‍💻 Tous mes projets sont disponibles ici [https://gabnougue.github.io/portfolio](https://gabnougue.github.io/portfolio/projects)
+- 👨‍💻 Tous mes projets sont disponibles ici [https://gabnougue.github.io/portfolio/projetcs](https://gabnougue.github.io/portfolio/projects)
 
-- 🚀 En savoir plus sur mon parcours [https://gabnougue.github.io/parcours](https://gabnougue.github.io/portfolio/education)
+- 🚀 En savoir plus sur mon parcours [https://gabnougue.github.io/portfolio/education](https://gabnougue.github.io/portfolio/education)
 
 - 📫 Comment me contacter **gabnougue@gmail.com**
 
-- 📄 En savoir plus sur mon expérience [https://gabnougue.github.io/experience](https://gabnougue.github.io/portfolio/experience)
+- 📄 En savoir plus sur mon expérience [https://gabnougue.github.io/portfolio/experience](https://gabnougue.github.io/portfolio/experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
