@@ -9,10 +9,6 @@ Ingénieur en devenir • Cybersécurité & IAM • Automatisation & Backend
 France 🇫🇷
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabnougue&label=Profile%20views&color=0e75b6&style=flat" alt="gabnougue" />
-</p>
-
 ---
 
 ## 🚀 À propos de moi
