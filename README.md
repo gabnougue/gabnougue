@@ -20,11 +20,6 @@ France 🇫🇷
 Je suis **étudiant ingénieur en R&I**, en alternance dans un environnement **cybersécurité / IAM**.  
 Je conçois et automatise des **processus critiques** : gestion d’identités, provisioning, logs, APIs, dashboards, scripts PowerShell/Python, intégration Splunk, etc.
 
-J’aime :
-- construire des **outils concrets et utiles**
-- automatiser ce qui peut l’être
-- comprendre **ce qu’il y a sous le capot** (réseau, OS, sécurité, protocoles)
-
 ---
 
 ## 🧠 Domaines de prédilection
@@ -44,38 +39,10 @@ J’aime :
   - PHP / PostgreSQL
   - Authentification, rôles, permissions
 
----
-
-## 🧩 Projets
-
-👉 Tous mes projets sont disponibles ici :  
-🔗 **https://gabnougue.github.io/portfolio/projects**
-
-Quelques exemples :
-- Automatisation IAM (BulkImport, Disable / Create / Confirm accounts)
-- APIs Python / Flask avec logs détaillés
-- Applications web (HTML / PHP / JS / PostgreSQL)
-- Dashboards et alertes Splunk
-- Outils d’automatisation avancée (Selenium / Playwright)
-
----
-
-## 📄 Parcours & expérience
-
-- 🎓 **Formation** :  
-  🔗 https://gabnougue.github.io/portfolio/education
-
-- 💼 **Expérience professionnelle** :  
-  🔗 https://gabnougue.github.io/portfolio/experience
-
----
-
 ## 📫 Me contacter
 
 - 📧 **Email** : gabnougue@gmail.com  
-- 💼 **LinkedIn** : https://linkedin.com/in/gabin-nougué-41703b276  
-- 📸 **Instagram** : https://instagram.com/gab1oui  
-- 🎨 **CodePen** : https://codepen.io/gab-gabnougue  
+- 💼 **LinkedIn** : https://linkedin.com/in/gabin-nougué-41703b276
 
 ---
 
