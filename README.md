@@ -49,7 +49,7 @@ Trois sites vitrines livrés et mis en production pour des clients (artisanat, c
 
 | Certification | Organisme | Année |
 |---|---|---|
-| SC-300 — Identity and Access Administrator Associate | Microsoft | 2025 |
+| SC-300 — Identity and Access Administrator Associate | Microsoft | 2026 |
 
 ## Projets
 
