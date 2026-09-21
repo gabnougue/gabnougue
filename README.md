@@ -42,22 +42,26 @@ Gestion des habilitations, provisioning, revues d'accès, audit et traçabilité
 Python · Bash · APIs REST / SOAP · Selenium · Playwright · Git · Linux
 
 **Développement web**
-JavaScript / TypeScript · Next.js · Vue · PHP
-Trois sites vitrines livrés et mis en production pour des clients (artisanat, commerce, profession libérale)
+JavaScript / TypeScript · Next.js · Node.js / Express · Stripe · Turso (SQLite)
+Trois sites livrés et en production pour des clients, dont deux boutiques en ligne avec back-office et paiement
 
 ## Certifications
 
 | Certification | Organisme | Année |
 |---|---|---|
-| SC-300 — Identity and Access Administrator Associate | Microsoft | 2026 |
+| SC-300 — Identity and Access Administrator Associate | Microsoft | 2025 |
 
 ## Projets
 
 **[iam-toolkit](https://github.com/gabnougue/iam-toolkit)** · `PowerShell` `Active Directory`
 Boîte à outils d'audit des risques IAM en environnement Active Directory : comptes inactifs, privilèges excessifs, politiques de mot de passe. Les angles morts que je croise en production, transformés en contrôles rejouables.
 
-**Sites clients** — dépôts privés · `Next.js` `TypeScript` `Vue`
-Trois sites vitrines conçus, développés et mis en production pour de petites structures. Cahier des charges, hébergement, nom de domaine et suivi côté client.
+**Sites clients** · `Next.js` `TypeScript` `Node.js` `Stripe`
+Trois sites conçus, développés et mis en production pour de petites structures — cahier des charges, hébergement, nom de domaine et suivi côté client.
+
+- **[magnetisme-paysbasque](https://github.com/gabnougue/magnetisme-paysbasque)** — site vitrine d'un praticien, Next.js et TypeScript
+- **[la-ptite-perlouze](https://github.com/gabnougue/la-ptite-perlouze)** — boutique en ligne de bijoux, back-office et paiement Stripe
+- **[le-ptit-bout-de-bois](https://github.com/gabnougue/le-ptit-bout-de-bois)** — boutique en ligne d'objets en bois, back-office et paiement Stripe
 
 ## Me contacter
 
