@@ -49,7 +49,7 @@ Trois sites livrés et en production pour des clients, dont deux boutiques en li
 
 | Certification | Organisme | Année |
 |---|---|---|
-| SC-300 — Identity and Access Administrator Associate | Microsoft | 2025 |
+| SC-300 — Identity and Access Administrator Associate | Microsoft | 2026 |
 
 ## Projets
 
