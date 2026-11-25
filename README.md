@@ -2,11 +2,11 @@
 
 <p align="center">
   <strong>Cybersécurité · Identity &amp; Access Management · Automatisation</strong><br>
-  Élève-ingénieur ENSEIRB-MATMECA (Bordeaux INP) — Alternant IAM/IGA à Bordeaux Métropole
+  Apprenti ingénieur IAM à Bordeaux Métropole · ENSEIRB-MATMECA (Bordeaux INP)
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabin-nougu%C3%A9-41703b276/">
+  <a href="https://www.linkedin.com/in/gabin-nougue">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:gabnougue@gmail.com">
@@ -19,31 +19,29 @@
 
 ## À propos
 
-Dernière année de cycle ingénieur en Réseaux & Informatique, spécialisé en **cybersécurité et gestion des identités**.
+Dernière année de cycle ingénieur Réseaux & Informatique à l'ENSEIRB-MATMECA, orienté **cybersécurité et gestion des identités**.
 
-En alternance à **Bordeaux Métropole**, je travaille sur l'administration des identités et des accès à l'échelle d'une collectivité : Active Directory, IGA Evidian, supervision Splunk, automatisation PowerShell. Côté parcours, j'ai passé 12 semaines chez **Betclic (Malte)** sur l'administration Entra ID, et je suis certifié **Microsoft SC-300 — Identity and Access Administrator Associate**.
+En apprentissage à **Bordeaux Métropole** depuis 2024, dans la partie IAM du service Sécurité opérationnelle et supervision : un SI partagé par 19 communes et plus de 22 000 agents. Je travaille sur **Evidian IGA**, Active Directory et LDAP, j'automatise en PowerShell et Python, et Splunk supervise nos processus. Avant ça, 12 semaines chez **Betclic (Malte)** dans l'équipe IT Workplace, sur une chaîne d'identité hybride : Active Directory, Entra ID, Okta, Intune. Certifié **Microsoft SC-300 — Identity and Access Administrator Associate**.
 
-Ce qui m'intéresse : les processus critiques qu'on peut fiabiliser et automatiser — cycles de vie des comptes, provisioning, revues d'accès, traçabilité.
+Ce qui m'intéresse : les processus d'identité qu'on peut fiabiliser et automatiser — cycle de vie des comptes, provisioning, traçabilité.
 
 ## Ce sur quoi je travaille
 
-- Automatisation des cycles de vie des identités (JML : joiner / mover / leaver)
-- Gouvernance des accès : rôles, habilitations, campagnes de recertification
-- Détection et audit : centralisation de logs, tableaux de bord, alerting
-- Petits outils Python / PowerShell pour supprimer les tâches manuelles répétitives
+- Industrialisation du cycle de vie des identités externes : demande ServiceNow, workflows Evidian IGA, supervision Splunk
+- Automatisation de l'IGA : création d'un modèle de droits complet en une commande, scripts de remédiation
+- Cartographie de l'API interne d'Evidian IGA, pour aller plus loin dans l'automatisation
+- Audit Active Directory : comptes inactifs, comptes à privilèges, mots de passe qui n'expirent jamais
 
 ## Compétences
 
-**Au quotidien, en alternance**
-Active Directory · Microsoft Entra ID · Evidian IGA · Splunk · PowerShell
-Gestion des habilitations, provisioning, revues d'accès, audit et traçabilité
+**Identité et accès**
+Evidian IGA · Active Directory · LDAP · Microsoft Entra ID · Intune · Okta (SSO) · ServiceNow · Splunk
 
-**En automatisation et sur mes projets**
-Python · Bash · APIs REST / SOAP · Selenium · Playwright · Git · Linux
+**Automatisation**
+PowerShell · Python · Bash · SQL (Oracle) · APIs REST / SOAP · Selenium · Playwright · Git · Linux
 
 **Développement web**
 JavaScript / TypeScript · Next.js · Node.js / Express · Stripe · Turso (SQLite)
-Trois sites livrés et en production pour des clients, dont deux boutiques en ligne avec back-office et paiement
 
 ## Certifications
 
@@ -54,7 +52,7 @@ Trois sites livrés et en production pour des clients, dont deux boutiques en li
 ## Projets
 
 **[iam-toolkit](https://github.com/gabnougue/iam-toolkit)** · `PowerShell` `Active Directory`
-Boîte à outils d'audit des risques IAM en environnement Active Directory : comptes inactifs, privilèges excessifs, politiques de mot de passe. Les angles morts que je croise en production, transformés en contrôles rejouables.
+Boîte à outils d'audit Active Directory : comptes inactifs, comptes à privilèges, mots de passe qui n'expirent jamais. Scripts validés sur un lab AD reproductible, avec un rapport d'audit type et sa méthodologie.
 
 **Sites clients** · `Next.js` `TypeScript` `Node.js` `Stripe`
 Trois sites conçus, développés et mis en production pour de petites structures — cahier des charges, hébergement, nom de domaine et suivi côté client.
@@ -66,4 +64,4 @@ Trois sites conçus, développés et mis en production pour de petites structure
 ## Me contacter
 
 - **Email** — [gabnougue@gmail.com](mailto:gabnougue@gmail.com)
-- **LinkedIn** — [gabin-nougué](https://www.linkedin.com/in/gabin-nougu%C3%A9-41703b276/)
+- **LinkedIn** — [gabin-nougue](https://www.linkedin.com/in/gabin-nougue)
